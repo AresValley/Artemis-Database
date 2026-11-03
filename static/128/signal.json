@@ -1,0 +1,82 @@
+{
+    "pageid": "128",
+    "title": "Japanese Slot Machine (XSL)",
+    "added_since": 65,
+    "spectrum": {
+        "filename": "XSL_idle.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a3/XSL_idle.jpg"
+    },
+    "audio": {
+        "filename": "Xsl_idle.mp3",
+        "url": "https://www.sigidwiki.com/images/0/00/Xsl_idle.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4152500,
+            "description": ""
+        },
+        {
+            "value": 4231000,
+            "description": ""
+        },
+        {
+            "value": 4290500,
+            "description": ""
+        },
+        {
+            "value": 6249500,
+            "description": ""
+        },
+        {
+            "value": 6416500,
+            "description": ""
+        },
+        {
+            "value": 6444500,
+            "description": ""
+        },
+        {
+            "value": 8312500,
+            "description": ""
+        },
+        {
+            "value": 8587500,
+            "description": ""
+        },
+        {
+            "value": 8703000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ],
+    "short description": "The Japanese Slot Machine (Enigma Designation XSL) is a simplex system used by the Japanese Maritime Self-Defense Force in Ichihara, Japan.",
+    "description": "The **Japanese Slot Machine** (Enigma Designation **XSL**) is a simplex system used by the Japanese Maritime Self-Defense Force in Ichihara, Japan. This signal is transmitted from the [Japanese Maritime Self-Defense Force Ichihara Transmitting Station](https://www.google.com/maps/place/35%C2%B026'46.0%22N+140%C2%B010'52.0%22E/@35.4460995,140.1844078,247m/data=!3m1!1e3!4m3!3m2!1s0x0:0x0!4b1!6m1!1e1) (海上自衛隊市原送信所) in Ichihara, Japan. Uses QPSK at 1500 Bd to transmit. Has a very interesting and unique idling format which sounds akin to a slot machine, hence the attributed name. This modem has been active since 2001."
+}

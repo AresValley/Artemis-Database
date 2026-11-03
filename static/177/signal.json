@@ -1,0 +1,49 @@
+{
+    "pageid": "177",
+    "title": "Toyota Car Key",
+    "added_since": 65,
+    "spectrum": {
+        "filename": "ToyotaCarFob_Waterfall.png",
+        "url": "https://www.sigidwiki.com/images/d/d4/ToyotaCarFob_Waterfall.png"
+    },
+    "audio": {
+        "filename": "ToyotaCarFob_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/5/55/ToyotaCarFob_Sound.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 315000000,
+            "description": ""
+        },
+        {
+            "value": 433000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Wireless entry rolling code car key.",
+    "description": "Wireless entry rolling code car key."
+}

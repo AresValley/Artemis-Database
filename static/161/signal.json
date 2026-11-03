@@ -1,0 +1,51 @@
+{
+    "pageid": "161",
+    "title": "FUNcube-1 Telemetry",
+    "added_since": 65,
+    "spectrum": {
+        "filename": "FUNcube.jpg",
+        "url": "https://www.sigidwiki.com/images/d/d3/FUNcube.jpg"
+    },
+    "audio": {
+        "filename": "Funcube1_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/8/88/Funcube1_Sound.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 145935000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FUNcube-1 Telemetry is a telemetry signal sent from the Funcube-1 Cubesat amateur radio satellite.",
+    "description": "**FUNcube-1 Telemetry** is a telemetry signal sent from the Funcube-1 (AO-73) Cubesat amateur radio satellite. The telemetry is a 1200 Bd BPSK signal. The satellite was launched November 21st, 2013."
+}

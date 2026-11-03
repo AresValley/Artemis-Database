@@ -1,0 +1,54 @@
+{
+    "pageid": "54",
+    "title": "Automatic Identification System (AIS)",
+    "added_since": 65,
+    "spectrum": {
+        "filename": "AIS.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f7/AIS.jpg"
+    },
+    "audio": {
+        "filename": "AIS_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f9/AIS_Sound.mp3"
+    },
+    "category": [
+        "Marine",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 161975000,
+            "description": ""
+        },
+        {
+            "value": 162025000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Automatic Identification System (AIS) is used by ships to broadcast position and vessel information.",
+    "description": "**Automatic Identification System (AIS)** is used by ships to broadcast position and vessel information. Uses 9.6 kbps [GMSK](http://en.wikipedia.org/wiki/Gaussian_minimum-shift_keying#Gaussian_minimum-shift_keying) modulation."
+}

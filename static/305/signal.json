@@ -1,0 +1,50 @@
+{
+    "pageid": "305",
+    "title": "Autocab",
+    "added_since": 65,
+    "spectrum": {
+        "filename": "Autocab.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f1/Autocab.jpg"
+    },
+    "audio": {
+        "filename": "autocab.mp3",
+        "url": "https://www.sigidwiki.com/images/3/37/Autocab.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 163375000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ],
+    "short description": "This is an example of the Autocab Media Data Terminals used by cab companies all over the world.",
+    "description": "This is an example of the Autocab Media Data Terminals used by cab companies all over the world. Autocab is an example of Digital Dispatch System (DDS) for taxis. These use QPSK modulation."
+}

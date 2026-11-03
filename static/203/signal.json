@@ -1,0 +1,58 @@
+{
+    "pageid": "203",
+    "title": "FLEX",
+    "added_since": 65,
+    "spectrum": {
+        "filename": "FLEX.jpg",
+        "url": "https://www.sigidwiki.com/images/8/8a/FLEX.jpg"
+    },
+    "audio": {
+        "filename": "FLEX.mp3",
+        "url": "https://www.sigidwiki.com/images/1/13/FLEX.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 152600000,
+            "description": ""
+        },
+        {
+            "value": 931938000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FLEX (Flexible Wide Area Paging Protocol) is Motorola's high speed one-way paging protocol that supports 1600, 3200, and 6400 bps. FLEX can transmit tone, numeric, alphanumeric, and binary data.",
+    "description": "**FLEX** (Flexible Wide Area Paging Protocol) is Motorola's high speed one-way paging protocol that supports 1600, 3200, and 6400 bps. FLEX can transmit numeric, alphanumeric, and binary data. \n\nFLEX uses either 2FSK or 4FSK. 2FSK speeds are 1600 bps and 3200 bps. 4FSK speeds are 3200 bps and 6400 bps.\n\n [ReFLEX](https://www.sigidwiki.com/wiki/ReFLEX) is the two-way variant of the FLEX protocol."
+}
